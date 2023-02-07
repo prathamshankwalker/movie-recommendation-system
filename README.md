@@ -26,7 +26,7 @@ PS: We built this project to practice our skills.
 
 - Client: React, WindiCSS, React Router
 - Server: Node, Express
-- ML : scikit learn, Numpy, Pandas (Python)
+- ML : scikit learn, Pandas (Python)
 
 ### API Used
 
