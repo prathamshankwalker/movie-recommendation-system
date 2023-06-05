@@ -20,7 +20,7 @@ PS: We built this project to practice our skills.
 
 - [@hk2257853](https://github.com/hk2257853): Backend
 - [@Greeshma2903](https://github.com/greeshma2903): Design, Frontend
-- [@Pratham-cymk](https://www.github.com/Pratham-cymk): Machine Learning
+- [@prathamshankwalker](https://www.github.com/prathamshankwalker): Machine Learning
 
 ## Tech Stack
 
